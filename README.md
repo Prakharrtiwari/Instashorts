@@ -15,3 +15,9 @@ InstaShorts is a simple, Instagram-inspired app that allows users to view, like,
 - Like and comment on videos.
 - Powered by Retrofit for API calls.
 - BLoC for state management and maintaining a clean codebase.
+
+
+
+
+https://github.com/user-attachments/assets/40014dc4-8a82-44b5-a771-67dc59f67d87
+
