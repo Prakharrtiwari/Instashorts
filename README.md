@@ -1,16 +1,14 @@
-# instashorts
+#InstaShorts
+InstaShorts is a simple, Instagram-inspired app that allows users to view, like, and comment on video reels sourced from the Pexels API. This project focuses on implementing core concepts like state management and API integration.
 
-A new Flutter project.
+##What I Learned
+###API Integration with Retrofit: Learned how to integrate external APIs using Retrofit, focusing on fetching data from the Pexels API to populate the app with video content.
+###State Management with BLoC: Gained hands-on experience with the BLoC (Business Logic Component) pattern for managing app states in a scalable and maintainable way.
+###UI Development in Flutter: Improved my Flutter skills by designing a user-friendly, smooth interface that mimics the experience of Instagram Reels.
+###Async Programming: Enhanced my understanding of asynchronous programming by handling network requests efficiently and managing UI updates after fetching data.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##Features
+View an endless feed of high-quality videos from the Pexels API.
+Like and comment on videos.
+Powered by Retrofit for API calls.
+BLoC for state management and maintaining a clean codebase.
